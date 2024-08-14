@@ -12,5 +12,11 @@ Estou estudando na [Alura](https://www.alura.com.br/)
 
 -atleta de musculação
 
+-fascinado por culinária
+
+-disposto ao experimentar o novo
+
+-fui cozinhar um ovo mais dentro tinha um pintinho, imagina seu cozinho com o pinto lá dentro?
+
 ### você pode se comunicar comigo em luisotaviolenzidasilva@gmail.com
 
