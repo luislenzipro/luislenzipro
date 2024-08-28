@@ -1,18 +1,20 @@
  Bem-vindo(a)!
 
-Estamos muito felizes em recebê-lo(a) aqui. Esperamos que você se sinta em casa e aproveite tudo o que temos a oferecer. Se precisar de qualquer coisa, não hesite em nos procurar. Estamos aqui para ajudar!
+Estou muito feliz em recebê-lo(a) aqui. Espero que você se sinta em casa e aproveite tudo o que tenho a oferecer. Se precisar de qualquer coisa, não hesite em me procurar. Estou aqui para ajudar!
 
 **Luis lenzi**
 
 Estou estudando na [Alura](https://www.alura.com.br/)
 
--atleta de futebol
+-atleta de corrida
 
--atleta de vôlei 
+-Ultimo Romantico
 
 -atleta de musculação
 
 -fascinado por culinária
+
+-Nutricionista amador
 
 -disposto ao experimentar o novo
 
@@ -20,4 +22,4 @@ Estou estudando na [Alura](https://www.alura.com.br/)
 
 ### você pode se comunicar comigo em luisotaviolenzidasilva@gmail.com
 
-![](https://media.tenor.com/KGrsbqc-zDYAAAAj/cateatchips.gif)
+![](https://media.tenor.com/GHpbIHPwhHUAAAAi/pessi.gif)
