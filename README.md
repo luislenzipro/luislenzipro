@@ -8,15 +8,9 @@ Estou estudando na [Alura](https://www.alura.com.br/)
 
 -atleta de futebol
 
-![](https://media.tenor.com/rmOSRULjBj4AAAAM/nufc-newcastle.gif)
-
 -atleta de vôlei 
 
-![](https://media.tenor.com/kWIdoSZIaIwAAAAM/boomstick-volleyball.gif)
-
 -atleta de musculação
-
-![](https://media.tenor.com/7mZrDZmOvO4AAAAM/frank-zane-frank.gif)
 
 -fascinado por culinária
 
